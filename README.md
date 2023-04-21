@@ -9,6 +9,7 @@ The purpose of this software is to display a simple message, "Hello, World!" to 
 My intention with developing this software is to provide evidence that I know and understand how to use Python.
 
 Below is a link to video demonstrating that the software works.
+
 [Demonstration](https://youtu.be/_nPDxKa3BnA)
 
 # Development Environment
